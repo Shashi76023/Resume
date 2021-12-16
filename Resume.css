@@ -1,0 +1,84 @@
+body{
+    margin: 0px;
+}
+#body-header{
+    height: 75vh;
+    opacity: 06;
+    background-image: url(images.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.horizontal-list{
+    list-style: none;
+    padding-left: 2%;
+    text-align: lelf;
+}
+.horizontal-list li{
+    display: inline-block;
+    margin: 8px;
+}
+.horizontal-list a{
+    color: aliceblue;
+    text-decoration: dotted;
+    
+}
+.horizontal-list li a:hover{
+    color: aqua;
+    border-radius: 50%;
+
+
+}
+#my-name{
+    font-size: 3rem;
+    color:rgb(172, 172, 20);
+    letter-spacing:  0.1em;;
+    font-weight: 700;
+    font-style: italic;
+    margin-bottom: .5rem;
+    text-align: center;
+    margin-top: 15%;
+
+}
+.social-icon li a i{
+    padding: 0px;
+    font-size: 2rem;
+    border-radius: 50%;
+    color: red;
+    
+ 
+}
+  
+
+.horizontal-list{
+    text-align: center;
+}
+#about{
+    height: auto;
+    width: 100%;
+    position: relative;
+
+}
+#my-image{
+    height: 10rem;
+    width: 10rem;
+    margin: auto;
+    margin-top: -17vh;
+}
+#my-image img{
+    height: 12rem;
+    width: 12rem;
+    border-radius: 50%;
+    border-color: rgb(138, 138, 201) 4px;
+}
+    #myself{
+        text-decoration-style: solid;
+        color: rgb(189, 56, 56);
+        margin-left: 17px;
+        font-size: large;
+        font-weight: bold;
+
+        
+    }
+
+    
